@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.orqa{
+  background-size: 680px;
+  background-position: right top;
+}
+
